@@ -4,4 +4,5 @@ export {
 } from "./MainMenuScreen.js";
 export { default as ServersScreen } from "./ServersScreen.js";
 export { default as SetupWizard } from "./SetupWizard.js";
+export { default as VolumesScreen } from "./VolumesScreen.js";
 export { default as WelcomeScreen } from "./WelcomeScreen.js";
