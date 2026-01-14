@@ -7,6 +7,7 @@ export { default as FirewallsScreen } from "./FirewallsScreen.js";
 export { default as FloatingIPsScreen } from "./FloatingIPsScreen.js";
 export { default as LoadBalancersScreen } from "./LoadBalancersScreen.js";
 export { default as NetworksScreen } from "./NetworksScreen.js";
+export { default as PrimaryIPsScreen } from "./PrimaryIPsScreen.js";
 export { default as ServersScreen } from "./ServersScreen.js";
 export { default as SetupWizard } from "./SetupWizard.js";
 export { default as VolumesScreen } from "./VolumesScreen.js";
