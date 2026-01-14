@@ -3,6 +3,7 @@ export {
   type MenuAction,
 } from "./MainMenuScreen.js";
 export { default as FirewallsScreen } from "./FirewallsScreen.js";
+export { default as FloatingIPsScreen } from "./FloatingIPsScreen.js";
 export { default as NetworksScreen } from "./NetworksScreen.js";
 export { default as ServersScreen } from "./ServersScreen.js";
 export { default as SetupWizard } from "./SetupWizard.js";
