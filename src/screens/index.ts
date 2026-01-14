@@ -1,2 +1,6 @@
+export {
+  default as MainMenuScreen,
+  type MenuAction,
+} from "./MainMenuScreen.js";
 export { default as SetupWizard } from "./SetupWizard.js";
 export { default as WelcomeScreen } from "./WelcomeScreen.js";
