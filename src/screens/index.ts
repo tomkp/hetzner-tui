@@ -3,6 +3,7 @@ export {
   type MenuAction,
 } from "./MainMenuScreen.js";
 export { default as CertificatesScreen } from "./CertificatesScreen.js";
+export { default as DNSRecordsScreen } from "./DNSRecordsScreen.js";
 export { default as DNSZonesScreen } from "./DNSZonesScreen.js";
 export { default as FirewallsScreen } from "./FirewallsScreen.js";
 export { default as FloatingIPsScreen } from "./FloatingIPsScreen.js";
