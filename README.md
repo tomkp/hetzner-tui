@@ -4,6 +4,9 @@
 
 An interactive terminal UI for managing Hetzner Cloud and DNS resources. Built with React and Ink for a modern terminal experience.
 
+<img width="2002" height="734" alt="CleanShot 2026-01-15 at 09 55 03@2x" src="https://github.com/user-attachments/assets/19b73514-53e9-45c4-91b4-0c6797409ada" />
+
+
 ## Installation
 
 ```bash
